@@ -1,0 +1,16 @@
+html {
+	background-image: url(background.jpg); 
+	background-size: cover;
+	background-repeat: repeat;
+}
+img {
+	position: fixed; 
+	bottom: 0px; 
+	left: 0px;
+}
+p {
+	text-align: center;
+	font-size: 40px;
+	font-family: "Cursive", Lucida Handwriting;
+}	
+	
